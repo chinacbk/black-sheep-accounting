@@ -1,5 +1,5 @@
 # black-sheep-accounting
-					# 败家娘们记账系统
+		# 败家娘们记账系统
 
 		技术框架：
 			jFinal(后端) + mysql(db) + freemarker(数据渲染模板引擎) + bootstrap(前端ui) 
